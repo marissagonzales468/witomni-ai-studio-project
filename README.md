@@ -95,12 +95,11 @@ My contributions included:
 
 ## Setup and Installation
 
-Clone the repository and enter the project directory:
+Clone the official project repository:
 
 ```bash
-git clone https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing
+git clone https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing.git
 cd witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing
-```
 
 Create and activate a virtual environment:
 
