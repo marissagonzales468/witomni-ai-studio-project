@@ -161,6 +161,10 @@ The notebooks include visualizations and analyses of:
 
 The model predicts which customers are likely to return; it does not prove that a marketing campaign causes customers to return. The dataset represents one historical time period, and the model may not generalize to future customer behavior or other retailers. The middle-ranked customers were difficult to distinguish because their behavior was close to the overall base rate.
 
+## API Documentation
+
+This project is notebook-based and does not expose a public API. The analysis can be reproduced using the provided notebook, dataset instructions, installation steps, and evaluation workflow.
+
 ## Next Steps
 
 - Test the model on a newer time period.
