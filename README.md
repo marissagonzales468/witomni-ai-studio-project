@@ -94,11 +94,11 @@ My contributions included:
 
 ## Repository Contents
 
-- `data/` — project data files or data-related resources.
-- `notebooks/` — notebooks containing data preparation, exploration, modeling, and evaluation.
-- `requirements.txt` — Python dependencies.
-- `Challenge-Project-Overview.md` — project overview and planning information.
-- `Getting-Started-for-Fellows.md` — setup and project guidance.
+- `README.md` — project overview, methodology, results, contributions, and reproducibility information.
+- `witOmni_1B_Notebook_Nov3.ipynb` — notebook containing data preparation, feature engineering, model training, and evaluation.
+- `visualizations/` — project result visualizations, if included.
+
+The original code, requirements, and shared project materials are maintained in the official Break Through Tech repository.
 
 ## Setup and Installation
 
@@ -177,9 +177,9 @@ This project is notebook-based and does not expose a public API. The analysis ca
 
 This project was completed through Break Through Tech's AI Studio program in collaboration with WitOmni. The project team contributed to the shared repository, notebook development, analysis, and evaluation.
 
-# Team Members
+## Team Members
 
-This project was completed collaboratively through Break Through Tech’s AI Studio program. Team members and GitHub handles are listed in the repository’s contributor section.
+This project was completed collaboratively through Break Through Tech’s AI Studio program. Team members and their GitHub handles are listed in the official project repository.
 
 ## My Contributions
 
