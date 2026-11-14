@@ -130,7 +130,7 @@ Open a notebook in the `notebooks/` folder and run the data-loading, cleaning, f
 
 Add this after the setup section:
 
-```markdown
+
 ## Notebook
 
 - [Open the Google Colab notebook](https://colab.research.google.com/drive/1XAYf_vb9C_Qgti77I6mzn8LFBNpTX_JE?authuser=1#scrollTo=IxbE4Kr46PVI)
