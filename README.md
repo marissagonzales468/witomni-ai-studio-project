@@ -12,6 +12,13 @@ This project uses the publicly available [UCI Online Retail dataset](https://arc
 
 After removing duplicates, missing customer IDs, canceled transactions, invalid quantities or prices, and non-product records, 391,153 valid transactions remained. These transactions represented 3,701 customers in the final modeling dataset.
 
+## Dataset Access
+
+The dataset is publicly available through the
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+
+The original dataset is not duplicated in this repository. Download it from UCI and place it in the `data/` folder before running the notebook.
+
 ## Methodology
 
 ### Data preparation
