@@ -103,7 +103,6 @@ cd witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing
 
 Create and activate a virtual environment:
 
-```bash
 python -m venv .venv
 
 # macOS/Linux
@@ -127,7 +126,19 @@ jupyter notebook
 
 Open a notebook in the `notebooks/` folder and run the data-loading, cleaning, feature-engineering, model-training, and evaluation sections in order.
 
+### 3. Add a direct notebook section
+
+Add this after the setup section:
+
+```markdown
+## Notebook
+
+- [Open the Google Colab notebook](https://colab.research.google.com/drive/1XAYf_vb9C_Qgti77I6mzn8LFBNpTX_JE?authuser=1#scrollTo=IxbE4Kr46PVI)
+- [View the notebooks in the repository](https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing/tree/main/notebooks)
+
 ## Visualizations
+<img width="1290" height="496" alt="image" src="https://github.com/user-attachments/assets/258b0648-0e36-4909-b3e2-d34f67b74bbb" />
+<img width="916" height="310" alt="image" src="https://github.com/user-attachments/assets/0909d0bb-0a79-44ee-b303-d1c58de14f71" />
 
 The notebooks include visualizations and analyses of:
 
@@ -154,5 +165,18 @@ The model predicts which customers are likely to return; it does not prove that 
 ## Acknowledgements
 
 This project was completed through Break Through Tech's AI Studio program in collaboration with WitOmni. The project team contributed to the shared repository, notebook development, analysis, and evaluation.
+
+# Team Members
+
+This project was completed collaboratively through Break Through Tech’s AI Studio program. Team members and GitHub handles are listed in the repository’s contributor section.
+
+## My Contributions
+
+- Cleaned and prepared the transaction data.
+- Engineered customer-level features from historical transactions.
+- Created the temporal train-test setup and repeat-purchaser label.
+- Compared machine learning models and evaluated their performance.
+- Interpreted model results, thresholds, customer-ranking lift, and limitations.
+- Contributed to the project notebook and documentation.
 
 The original project repository and shared materials are maintained by Break Through Tech and the WitOmni project team.
