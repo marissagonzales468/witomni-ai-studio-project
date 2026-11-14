@@ -141,7 +141,7 @@ Add this after the setup section:
 ## Notebook
 
 - [Open the Google Colab notebook](https://colab.research.google.com/drive/1XAYf_vb9C_Qgti77I6mzn8LFBNpTX_JE?authuser=1#scrollTo=IxbE4Kr46PVI)
-- [View the notebooks in the repository](https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing/tree/main/notebooks)
+- [View the notebooks in the repository]([https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing/tree/main/notebooks](https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing/tree/main))
 
 ## Visualizations
 <img width="1290" height="496" alt="image" src="https://github.com/user-attachments/assets/258b0648-0e36-4909-b3e2-d34f67b74bbb" />
