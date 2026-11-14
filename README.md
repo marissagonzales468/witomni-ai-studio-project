@@ -98,8 +98,8 @@ My contributions included:
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing>
-cd <witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing>
+git clone https://github.com/Break-Through-Tech/witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing
+cd witOmni-1B-ai-powered-customer-intelligence-for-smarter-marketing
 ```
 
 Create and activate a virtual environment:
