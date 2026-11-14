@@ -181,13 +181,4 @@ This project was completed through Break Through Tech's AI Studio program in col
 
 This project was completed collaboratively through Break Through Tech’s AI Studio program. Team members and their GitHub handles are listed in the official project repository.
 
-## My Contributions
-
-- Cleaned and prepared the transaction data.
-- Engineered customer-level features from historical transactions.
-- Created the temporal train-test setup and repeat-purchaser label.
-- Compared machine learning models and evaluated their performance.
-- Interpreted model results, thresholds, customer-ranking lift, and limitations.
-- Contributed to the project notebook and documentation.
-
 The original project repository and shared materials are maintained by Break Through Tech and the WitOmni project team.
